@@ -9,3 +9,28 @@ h1 {
 h2 {
   color: #C3BAE8
 }
+
+.title {
+  height: 80%;
+  width: 50%;
+  border-bottom-left-radius: 25px;
+  background-color: #FFC107;
+}
+
+.description {
+  /* position: absolute; */
+  left: 50%;
+  top:0%;
+  height: 40%;
+  width: 50%;
+  background-color: #9C27B0;
+}
+
+.director {
+  height: 40%;
+  width: 50%;
+  /* position:absolute; */
+  left:50%;
+  top:40%;
+  border-bottom-right-radius: 25px;
+  background-color: #E91E63;

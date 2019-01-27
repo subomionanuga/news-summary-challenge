@@ -1,4 +1,4 @@
 let test = document.getElementById('test')
 
 
-test.addEventlistener ('click', runTestFunction)
+test.addEventListener('click', runTestFunction)
